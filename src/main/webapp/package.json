@@ -1,0 +1,20 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@cronapp/framework-core": "2.9.1-SP.7",
+    "cronapi-js": "2.9.1-SP.7",
+    "cronapp-common-js": "2.9.1-SP.7",
+    "cronapp-framework-js": "2.9.1-SP.7",
+    "cronapp-google-maps": "0.0.14",
+    "cronapp-lib-js": "2.9.1-SP.7"
+  }
+}
