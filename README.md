@@ -2,8 +2,8 @@
 
 Esta aplicação foi criada para o tutorial [Usando a API do Google Maps em seu projeto](https://docs.cronapp.io/display/CRON2/Usando+a+API+do+Google+Maps+em+seu+projeto) no Cronapp. O sistema obtem o endereço de origem e destino e exibe no mapa a melhor rota. 
 
-# Pré-Requisitos
-Cronapp IDE
+## Pré-Requisitos
+Cronapp IDE versão (2.9.1 SP.9)
 
 1. Crie um projeto do tipo Mobile na categoria Low-Code no Cronapp IDE (www.cronapp.io)
 2. Digite o nome desejado para o projeto e escolha que o projeto está em um controle de versão
